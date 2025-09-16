@@ -1,6 +1,24 @@
 {
-    "users": [
-        { "id": "gus", "name": "Gustavo"},
-        { "id": "hele", "name": "Helena"}
-    ]
+  "users": [
+    {
+      "id": "gus",
+      "name": "Gustavo"
+    },
+    {
+      "id": "hele",
+      "name": "Helena"
+    },
+    {
+      "id": "sodras",
+      "name": "Pedro Sodré"
+    },
+    {
+      "id": "ps",
+      "name": "Paulo Sérgio"
+    },
+    {
+      "id": "enr",
+      "name": "Enrico Massariol"
+    }
+  ]
 }

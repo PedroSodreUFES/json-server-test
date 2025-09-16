@@ -5,7 +5,7 @@ export default function UserInfo() {
     const { getUser, user, userRequestStatus } = useUser() 
 
     useEffect(() => {
-        getUser("gus");
+        getUser("sodras");
     }, [getUser])
 
     if (userRequestStatus === 'loading') {
